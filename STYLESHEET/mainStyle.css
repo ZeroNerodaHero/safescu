@@ -1,0 +1,10 @@
+#sideBar_cont{
+    left: 0;
+    width: 40%;
+    height: 95%;
+    position: fixed;
+    background-color: red;
+    z-index: 100;
+    top: 2.5%;
+    border-radius: 0px 10px 10px 0px;
+}
